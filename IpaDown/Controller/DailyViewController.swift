@@ -2,7 +2,7 @@
 //  DailyViewController.swift
 //  IpaDown
 //
-//  Created by ice on 16/10/7.
+//  Created by ice on 16/01/01
 //  Copyright © 2016年 k. All rights reserved.
 //
 

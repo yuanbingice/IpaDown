@@ -2,7 +2,7 @@
 //  Const.swift
 //  IpaDown_SWift
 //
-//  Created by gaokunpeng on 16/8/8.
+//  Created by 16/01/01
 //  Copyright © 2016年 apple. All rights reserved.
 //
 
